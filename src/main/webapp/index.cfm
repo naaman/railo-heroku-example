@@ -1,0 +1,1 @@
+<cfoutput>Today is: #now()#</cfoutput>
